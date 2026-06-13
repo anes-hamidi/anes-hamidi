@@ -32,7 +32,7 @@
 ### 📫 Connect With Me
 
 * **Let's collaborate on:** Advanced sync protocols, structural reviews, or Flutter core optimization.
-* **GitHub:** [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+* **GitHub:** [@anes-hamidi](https://github.com/YOUR_GITHUB_USERNAME)
 
 ---
 <p align="center">
